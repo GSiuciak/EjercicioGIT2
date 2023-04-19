@@ -1,4 +1,4 @@
-# Práctica de SCM
+# Gonzalo Siuciak Práctica de SCM
 Objetivos:
 * Clonar un repositorio Git en forma local
 * Realizar operaciones de versionado a través de la terminal
